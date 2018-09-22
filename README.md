@@ -3,9 +3,9 @@ Plugins are written in **Pawn** (previously named Small) and [AMXX API](https://
 
 ## Usage
 * Download [AMXX STUDIO](http://www.amxmodx.org/downloads.php)
-* Copy plugins to [download directory]/AmxStudio/amxmodx/scripting and run compile.exe
-* Copy .amxx file from [download directory]/amxmodx/scripting/compiled to your server's directory: [server directory]/addons/amxmodx/plugins
-* Add plugins name to [server directory]/addons/amxmodx/configs/plugins.ini
+* Copy plugin(s) to [download directory]/AmxStudio/amxmodx/scripting and run compile.exe
+* Copy .amxx file(s) from [download directory]/amxmodx/scripting/compiled to your server's directory: [server directory]/addons/amxmodx/plugins
+* Add plugin(s) name to [server directory]/addons/amxmodx/configs/plugins.ini
 
 ### Dog.sma
 Lets you "dog" other players so their chat messages are changed to a random dog sound (Woof, Bark, etc.). It also blocks other communication tools (radio commands, name changes)
