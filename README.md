@@ -4,7 +4,7 @@ Plugins are written in **Pawn** (previously named Small) and [AMXX API](https://
 ## Usage
 * Download [AMXX STUDIO](http://www.amxmodx.org/downloads.php)
 * Copy plugins to [download directory]/AmxStudio/amxmodx/scripting and run compile.exe
-* Copy .amxx file from /amxmodx/scripting/compiled to your server's directory: [server directory]/addons/amxmodx/plugins
+* Copy .amxx file from [downlaod directory]/amxmodx/scripting/compiled to your server's directory: [server directory]/addons/amxmodx/plugins
 * Add plugins name to [server directory]/addons/amxmodx/configs/plugins.ini
 
 ### Dog.sma
